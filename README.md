@@ -70,12 +70,13 @@ Currently, I am pivoting my career towards **Data Science**, **Machine Learning*
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisaroglu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaroglu&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bisaroglu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaroglu&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisaroglu&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisaroglu&theme=tokyonight&hide_border=true&locale=en" alt="streak graph" />
 </div>
 
 <div align="center">
