@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kullaniciadin">
+  <a href="https://www.linkedin.com/in/do%C4%9Fu%C5%9F-b%C4%B1%C5%9Faro%C4%9Flu-113355295/">
     <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:seninmailin@gmail.com">
+  <a href="mailto:dogus.bisar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Bana_Ulaş-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
