@@ -1,5 +1,10 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Doğuş Bişaroğlu</h1>
+  <!-- Yeni Kapak Fotoğrafı / Banner -->
+  <img src="KAPAK_FOTOGRAFI_LINKI" alt="Evamir-i Tekviniye - Doğuş Bişaroğlu Banner" width="100%" />
+  
+  <br/><br/>
+
+  <h1>Hi there, I'm Doğuş Bişaroğlu</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Software+Engineering+Student;Data+Science+%26+AI+Enthusiast;.NET+%26+Python+Developer;Building+Scalable+Architectures" alt="Typing SVG" />
 </div>
@@ -27,9 +32,9 @@ I am a **Software Engineering** student at **Fırat University**. I approach cod
 
 Currently, I am pivoting my career towards **Data Science**, **Machine Learning**, and **Big Data Analysis**, leveraging my background in .NET and software architecture to build robust data solutions.
 
-* 🔭 **Focus:** Data Science, Predictive Analysis, Machine Learning
-* 🌱 **Learning:** Deep Learning Models, Advanced Statistical Methods
-* 🧠 **Motto:** *"Data is the new oil, but it’s useless without the engine to process it."*
+- 🔭 **Focus:** Data Science, Predictive Analysis, Machine Learning
+- 🌱 **Learning:** Deep Learning Models, Advanced Statistical Methods
+- 🧠 **Motto:** *"Data is the new oil, but it’s useless without the engine to process it."*
 
 ---
 
