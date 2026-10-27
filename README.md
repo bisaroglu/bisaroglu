@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Yeni Kapak Fotoğrafı / Banner -->
-  <img src="KAPAK_FOTOGRAFI_LINKI" alt="Evamir-i Tekviniye - Doğuş Bişaroğlu Banner" width="100%" />
+  <img src="banner.jfif" alt="Evamir-i Tekviniye - Doğuş Bişaroğlu Banner" width="100%" />
   
   <br/><br/>
 
@@ -75,9 +74,9 @@ Currently, I am pivoting my career towards **Data Science**, **Machine Learning*
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisaroglu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bisaroglu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaroglu&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaroglu&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -85,5 +84,5 @@ Currently, I am pivoting my career towards **Data Science**, **Machine Learning*
 </div>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=bisaroglu&style=flat-square&color=blueviolet" alt="profile counter" />
+  <img src="https://komarev.com/ghpvc/?username=bisaroglu&style=flat-square&color=blueviolet" alt="profile counter" />
 </div>
